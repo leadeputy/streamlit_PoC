@@ -1,0 +1,4 @@
+message,response,label,analyze,connect
+Who is Jesus?,Jesus is the son of God and died in the cross for us 2 thousands years ago.,Positive,"Positive 60%, Neutral 35%, Negative 5%",True
+How can I get the visa?,We are not able to help with visa processes. But we are here to talk about Jesus and the hope He offers. Would you like to hear more about Him?,Neutral,"Positive 10%, Neutral 20%, Negative 70%",False
+"(Curse, blame)",This is an inappropriate comment. Please maintain a respectful conversation. ,Negative,"Positive 0%, Neutral 0%, Negative 100%",False
